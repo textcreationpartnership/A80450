@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a barbarous and bloody declaration by the Irish rebels, against the Supreame Councell of Ireland. And the votes of the Popish Assembly at Waterford against peace. And a proclamation excommunicating the clergie of Kilkennie, from saying maskes, or executing any other church-offices. September. the 28. This declaration and proclamation is examined, printed and published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80450</idno>
+            <idno type="STC">Wing C6110</idno>
+            <idno type="STC">Thomason E355_15</idno>
+            <idno type="STC">ESTC R201114</idno>
+            <idno type="EEBO-CITATION">99861674</idno>
+            <idno type="PROQUEST">99861674</idno>
+            <idno type="VID">159898</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80450)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159898)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E355[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a barbarous and bloody declaration by the Irish rebels, against the Supreame Councell of Ireland. And the votes of the Popish Assembly at Waterford against peace. And a proclamation excommunicating the clergie of Kilkennie, from saying maskes, or executing any other church-offices. September. the 28. This declaration and proclamation is examined, printed and published according to order.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N.E.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>anno Dom. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Ireland --  History --  17th century.</term>
+               <term>Ireland. --  Parliament --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159898:1" rendition="simple:additions"/>
+            <p>THE COPY OF <hi>A Barbarous and Bloody</hi> DECLARATION BY THE IRISH REBELS, AGAINST The Supreame COUNCELL of <hi>JRELAND.</hi> AND The Votes of the Popiſh Aſſembly at <hi>Waterford</hi> againſt <hi>Peace.</hi> AND A <hi>Proclamation</hi> excommunicating the Clergie of <hi>Kilkennie,</hi> from ſaying Maskes, or executing any other Church-Offices.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <date>
+                        <hi>SEPTEMBER. the 28.</hi>
+                     </date>
+                  </opener>
+                  <p>This Declaration and Proclamation is examined, printed and publiſhed according to ORDER.</p>
+               </body>
+            </floatingText>
+            <p>LONDON Printed for N. E. Anno Dom. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:159898:2"/>
+            <pb n="1" facs="tcp:159898:2"/>
+            <head>A <hi>DECLARATJON</hi> BY THE Eccleſiaſticall Congregation of both Clergies of <hi>Ireland,</hi> aſſembled together in the Name of the Holy Ghoſt at <hi>Waterford.</hi>
+            </head>
+            <head type="sub">Before the moſt Reverend Lord, the Archbiſhop <hi>Firmans,</hi> the Apoſtolicall Legate reſiding in <hi>Ireland.</hi>
+            </head>
+            <p>COncerning the Queſtion between us debated, and diſputed on many dayes together, whether they who accepted a Peace, contained in thirty Articles, tranſmitted to us by the ſupream Councell, were to be declared perjured, and conſequently whe<g ref="char:EOLhyphen"/>ther they ſhould be excommunicated as perjured per<g ref="char:EOLhyphen"/>ſons:
+<pb n="2" facs="tcp:159898:3"/>The Opinions and the Reaſons of every one being firſt heard, and the Writings of ſome Doctors of Divinitie read.</p>
+            <p>It is ordered by one generall conſent, and voted by all (no man gain ſaying it,) That all and ſingular confederate Catholiques, who ſhall adhere to the ſaid Peace, or conſent with the Favourers of it, or after any other manner, ſhall entertain and embrace it, are ab<g ref="char:EOLhyphen"/>ſolutely to be accompted perjured, eſpecially, for this reaſon, Becauſe in thoſe Articles there is no mention made of the Catholique Religion, and the ſecuritie thereof, nor regard had of the conſervation of the pri<g ref="char:EOLhyphen"/>viledges of the Countrie, as it was promiſed by the Oath, But that all things are rather referred to the judgment of our moſt renowned King (from whom in this preſent eſtate, wee can have nothing ſetled,) And in the mean time, the Armies, Weapons, and For<g ref="char:EOLhyphen"/>tifications, and the ſaid ſupreame Councell of the con<g ref="char:EOLhyphen"/>federate Catholiques it ſelf, are ſubjected to the Au<g ref="char:EOLhyphen"/>thoritie and Command of the Councell of the State, and the Proteſtant Officers of his Majeſtie, from whom that he might be ſecure, wee have taken that Oath: From which, and many other cauſes moved only by our own Conſciences, and having God be<g ref="char:EOLhyphen"/>fore our eyes, that it may be known to all and ſingu<g ref="char:EOLhyphen"/>lar, as well Iriſh as Stranger, That we have not, nor will give our conſent to ſuch Peace, except ſafe con<g ref="char:EOLhyphen"/>ditions, as well for our Religion, as for the King, and for the Countrie, according to our Oath bee offered unto us, And that our Flockes, and all our Ca holique People, with our confederate Friends, who in theſe generall meetings, have ſomtimes asked our advice in
+<pb n="3" facs="tcp:159898:3"/>this Spiritual buſineſſe belonging only to a Spirituall Judge, may know certainly what hath been determi<g ref="char:EOLhyphen"/>ned by us; to the end, that the godly and faithfull Catholiques, obeying their Shepheards and Paſtors, may concur in the ſame ſentence.</p>
+            <p>We have commanded this Decree to bee written, and publiſhed in all places in the Engliſh and the Iriſh Tongue, which we have confirmed with our hands and Seals. But the other Queſtion concerning Excom<g ref="char:EOLhyphen"/>munication, we have referred untill the next Seſſions.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Waterford</hi> 
+                  <date>
+                     <hi>the</hi> 12. <hi>day of Auguſt,</hi> 1646.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Iohn Baptiſta</hi> Arch Epiſ<g ref="char:EOLhyphen"/>copus <hi>Fermanus</hi> Nunti<g ref="char:EOLhyphen"/>us Apoſtolicus.</item>
+                     <item>Frater. <hi>Thomas Dublin Thomas Coſſelences</hi> Arch-Epiſcopus.</item>
+                     <item>Frater. <hi>Boetious Elpham. Fr. Pr. Waterford</hi> and Lis. <hi>Iohn Laoneus</hi> Epiſcopus.</item>
+                     <item>Frater. <hi>Iohn Claufortinſis Richara Ardfertenſis,</hi> and Acadam Epiſcopus.</item>
+                     <item>
+                        <hi>Franciſcus Aladencis</hi> E<g ref="char:EOLhyphen"/>piſcopus.</item>
+                     <item>
+                        <hi>Emund Lemerecenciis.</hi>
+                     </item>
+                     <item>Fr. Edm. Laghlen, Epiſ.</item>
+                     <item>
+                        <hi>Emerus Clog herencis.</hi>
+                     </item>
+                     <item>Frater. <hi>Nicholas Formenſis.</hi>
+                     </item>
+                     <item>Frater. <hi>Iacobus Conald</hi> Abbas Benehoram.</item>
+                     <item>Frater. <hi>Pr. Plunketus,</hi> Abbas B. M. Dublin.</item>
+                     <item>Frater. <hi>Lorentius Fitz. Harris</hi> Abbas deſunio.</item>
+                     <item>Frater. <hi>Iohn Cantnell</hi> Abbas deſancto cruce.</item>
+                     <item>
+                        <hi>Iacobus Tobin</hi> Abbas de Kilcole.</item>
+                     <item>
+                        <hi>Robertus Barry</hi> Vicarus A<g ref="char:EOLhyphen"/>poſtolicus Roſſenſis <hi>Do<g ref="char:EOLhyphen"/>naldus;</hi> 
+                        <gap reason="illegible: missing" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </item>
+                     <pb n="4" facs="tcp:159898:4"/>
+                     <item>Frater. <hi>Donaldus Agrippá</hi>
+                     </item>
+                     <item>Fuinburences</item>
+                     <item>Frater. <hi>Gregorus offarel</hi> prior provincialis ord: Predicate</item>
+                     <item>
+                        <hi>Dioniſius o-Briſcoll</hi> prior provincialis Eremitarum Sancti Auguſtini.</item>
+                     <item>
+                        <hi>Edmundo-Teg</hi> procura<g ref="char:EOLhyphen"/>tor Illuſtriff: Armacha in Cornell.</item>
+                     <item>
+                        <hi>Gualter Lincheus</hi> Vi<g ref="char:EOLhyphen"/>charius Apoſt: Tuamen<g ref="char:EOLhyphen"/>ſis.</item>
+                     <item>
+                        <hi>Gulielin: Bargat</hi> vicar. Apoſt: Immolacenſis.</item>
+                     <item>
+                        <hi>Iames Dempſhi:</hi> Vicar: Gener: Kilder: Cornel.</item>
+                     <item>
+                        <hi>Gaſneas Adenſis:</hi> Vic. Ge<g ref="char:EOLhyphen"/>ner.</item>
+                     <item>
+                        <hi>Oliverus Deiſe</hi> Vic: Ge<g ref="char:EOLhyphen"/>ner Midencis.</item>
+                     <item>
+                        <hi>Dominicus Roch</hi> Vic: Gener Gorcagiencis.</item>
+                     <item>
+                        <hi>Symono-Connory</hi> Vic: Gener Cluonenſis.</item>
+                     <item>
+                        <hi>Edmund Gerardius</hi> Vic: Gener Cluonenſis.</item>
+                     <item>
+                        <hi>Carolus Cogham</hi> Vic: Gener Cluonenſis.</item>
+                     <item>Frater. <hi>Robertus Nugen<g ref="char:EOLhyphen"/>tius</hi> ſuperior ſocietatis Je<g ref="char:EOLhyphen"/>ſu</item>
+                     <item>
+                        <hi>Barnabas Barnwal</hi> Com<g ref="char:EOLhyphen"/>miſſarius Generalis Ca<g ref="char:EOLhyphen"/>pucinorum.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <pb n="5" facs="tcp:159898:4"/>
+            <head>A Proclamation from the Biſhop of <hi>Oſ<g ref="char:EOLhyphen"/>ſory,</hi> excommunicating the Clergie of <hi>Kilkennie,</hi> for adhering to the Peace concluded between the Councell, and the Marqueſse of <hi>Ormond.</hi>
+            </head>
+            <p>WHereas wee have in publike and private meeting, at ſeveral times declared to the ſupreame Councell, and others whom it might concern, That it was and is unlawfull, and a<g ref="char:EOLhyphen"/>gainſt Conſcience; yea, implying perjurie (as it hath been deſigned by a ſpeciall Act of the Convocation now at <hi>Waterford</hi>) to do or concurre to any Act ten<g ref="char:EOLhyphen"/>ding to the approbation or countenancing of the pub<g ref="char:EOLhyphen"/>lication of this unconſcionable and miſchievous Peace ſo dangerous (as it is now Articled) to both Common-wealths, Syirituall and Temporall, but more particularly to the Spirituall.</p>
+            <p>And whereas, notwithſtanding our Declaration of the whole Clergie of the Kingdome to the contrarie, the ſupreame Councell and Commiſſioners have act<g ref="char:EOLunhyphen"/>ually proceeded to the Proclamation of it, yea, and forced on the Citie by terrour and threates, rather
+<pb n="6" facs="tcp:159898:5"/>then by any free conſent, or deſire of the people.</p>
+            <p>We having duly conſidered, and taken to heart, as it becometh, how envious this Fact both is, and ap<g ref="char:EOLhyphen"/>pears in Catholiques even againſt God himſelf, And what publike contempt of the holy Church it appea<g ref="char:EOLhyphen"/>reth, beſides the evills it is like to draw on this poore Kingdome.</p>
+            <p>After mature deliberation, and conſent of our Clergie (in deteſtation of this heinous and ſcandalous diſobedience of the ſupream Councell) and others who adhere unto them in a matter of Conſcience to<g ref="char:EOLhyphen"/>wards the holy Church, and in hatred to ſo wilfull an abominable an Act, do by theſe preſents (accor<g ref="char:EOLhyphen"/>ding to the preſcription of ſacred Canons) pronounce and command (from henceforth) a generall Ceſſati<g ref="char:EOLhyphen"/>on of divine Officers throughout all the City and Suburbs of <hi>Kilkennie,</hi> in all Churches, Monaſteries, and houſes in them whatſoever.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Palace of</hi> Nova Curia, <date>
+                     <hi>the</hi> 18. <hi>day of Auguſt,</hi> 1646.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
